@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.5">
+	<ConfigVersions>
+		<Metadata name="Catalog.Справочник1" id="ed1d784e-50e4-4344-a191-222f0368622a" configVersion="76139b9f7d547548a551cdb9f563881800000000">
+			<Metadata name="Catalog.Справочник1.Attribute.Реквизит2" id="593c1d84-b51a-44a7-8eaa-0dc8f200eda8"/>
+			<Metadata name="Catalog.Справочник1.Attribute.Реквизит1" id="62208fb8-78b7-4870-931a-f77381b21909"/>
+			<Metadata name="Catalog.Справочник1.Attribute.Реквизит3" id="a7bbe0d1-f966-458c-b13b-007b4575bf4b"/>
+		</Metadata>
+		<Metadata name="Catalog.Справочник1.Form.ФормаЭлемента" id="a7aecfcc-34c6-4ee0-aad6-9ce27e47dd6a" configVersion="6b6ce0edb1692d4e88b770c2d5879e2c00000000"/>
+		<Metadata name="Catalog.Справочник1.Form.ФормаЭлемента.Form" id="a7aecfcc-34c6-4ee0-aad6-9ce27e47dd6a.0" configVersion="f528a2dc53bd36479b945260c3d4164c00000000"/>
+		<Metadata name="Catalog.Справочник2" id="2f877f00-09f4-4fb2-9213-cb556461e361" configVersion="6c589c98886eb64288e20b0773ec16ce00000000">
+			<Metadata name="Catalog.Справочник2.Attribute.Реквизит1" id="afe0903a-86ef-49fe-90ac-5a6be8b31a3a"/>
+		</Metadata>
+		<Metadata name="Catalog.Справочник2.Form.ФормаСписка" id="08c33341-fcba-4eb8-a442-f5bf4424b835" configVersion="af0955b7951d1141bbe6546bd26bff5f00000000"/>
+		<Metadata name="Catalog.Справочник2.Form.ФормаСписка.Form" id="08c33341-fcba-4eb8-a442-f5bf4424b835.0" configVersion="466c44b8c4d6894d8cac12edb94cd77300000000"/>
+		<Metadata name="Catalog.Справочник3" id="c469d7d7-e879-48dd-87e1-953aba6c4894" configVersion="180bc3b80f1d18438290e81e54c1db4700000000"/>
+		<Metadata name="Configuration.Конфигурация" id="87e7c7a2-824b-4d3f-9f36-b8c8a9260ed5" configVersion="daed80390c53904f93c4de96a1ac368500000000"/>
+		<Metadata name="Language.Русский" id="03d4d347-0dc2-41bd-8aac-340f4237a959" configVersion="5327ca504145cf47adf3a5639bf05bbd00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
