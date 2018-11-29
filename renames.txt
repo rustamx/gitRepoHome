@@ -6,5 +6,7 @@ Catalogs\Справочник3.xml-->Catalogs\Справочник3.xml
 Catalogs\Справочник1\Forms\ФормаЭлемента.xml-->Catalogs\Справочник1\Forms\ФормаЭлемента.xml
 Catalogs\Справочник1\Forms\ФормаЭлемента\Ext\Form.xml-->Catalogs\Справочник1\Forms\ФормаЭлемента\Ext\Form.xml
 Catalogs\Справочник2\Forms\ФормаСписка.xml-->Catalogs\Справочник2\Forms\ФормаСписка.xml
+Catalogs\Справочник2\Forms\ФормаЭлемента.xml-->Catalogs\Справочник2\Forms\ФормаЭлемента.xml
 Catalogs\Справочник2\Forms\ФормаСписка\Ext\Form.xml-->Catalogs\Справочник2\Forms\ФормаСписка\Ext\Form.xml
+Catalogs\Справочник2\Forms\ФормаЭлемента\Ext\Form.xml-->Catalogs\Справочник2\Forms\ФормаЭлемента\Ext\Form.xml
 Languages\Русский.xml-->Languages\Русский.xml
