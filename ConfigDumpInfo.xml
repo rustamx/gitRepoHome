@@ -1,10 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.5">
 	<ConfigVersions>
-		<Metadata name="Catalog.Справочник1" id="ed1d784e-50e4-4344-a191-222f0368622a" configVersion="76139b9f7d547548a551cdb9f563881800000000">
+		<Metadata name="Catalog.Справочник1" id="ed1d784e-50e4-4344-a191-222f0368622a" configVersion="ec082503863c1247a57b32e252d796be00000000">
+			<Metadata name="Catalog.Справочник1.Attribute.Реквизит5" id="380b708c-8c36-48ca-8736-0129dff4b9be"/>
 			<Metadata name="Catalog.Справочник1.Attribute.Реквизит2" id="593c1d84-b51a-44a7-8eaa-0dc8f200eda8"/>
 			<Metadata name="Catalog.Справочник1.Attribute.Реквизит1" id="62208fb8-78b7-4870-931a-f77381b21909"/>
 			<Metadata name="Catalog.Справочник1.Attribute.Реквизит3" id="a7bbe0d1-f966-458c-b13b-007b4575bf4b"/>
+			<Metadata name="Catalog.Справочник1.Attribute.Реквизит4" id="e1d3b8d6-56d6-4a53-92fc-0d94ac42e93b"/>
 		</Metadata>
 		<Metadata name="Catalog.Справочник1.Form.ФормаЭлемента" id="a7aecfcc-34c6-4ee0-aad6-9ce27e47dd6a" configVersion="6b6ce0edb1692d4e88b770c2d5879e2c00000000"/>
 		<Metadata name="Catalog.Справочник1.Form.ФормаЭлемента.Form" id="a7aecfcc-34c6-4ee0-aad6-9ce27e47dd6a.0" configVersion="f528a2dc53bd36479b945260c3d4164c00000000"/>
