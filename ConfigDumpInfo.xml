@@ -9,8 +9,8 @@
 			<Metadata name="Catalog.Справочник1.Attribute.Реквизит3" id="a7bbe0d1-f966-458c-b13b-007b4575bf4b"/>
 			<Metadata name="Catalog.Справочник1.Attribute.Реквизит4" id="e1d3b8d6-56d6-4a53-92fc-0d94ac42e93b"/>
 		</Metadata>
-		<Metadata name="Catalog.Справочник1.Form.ФормаЭлемента" id="a7aecfcc-34c6-4ee0-aad6-9ce27e47dd6a" configVersion="6b6ce0edb1692d4e88b770c2d5879e2c00000000"/>
-		<Metadata name="Catalog.Справочник1.Form.ФормаЭлемента.Form" id="a7aecfcc-34c6-4ee0-aad6-9ce27e47dd6a.0" configVersion="f528a2dc53bd36479b945260c3d4164c00000000"/>
+		<Metadata name="Catalog.Справочник1.Form.ФормаЭлемента" id="a7aecfcc-34c6-4ee0-aad6-9ce27e47dd6a" configVersion="7de5305a0dc3314687748f4b85811e7f00000000"/>
+		<Metadata name="Catalog.Справочник1.Form.ФормаЭлемента.Form" id="a7aecfcc-34c6-4ee0-aad6-9ce27e47dd6a.0" configVersion="fd649c3ebb44e346ace3f4a10ca04fa600000000"/>
 		<Metadata name="Catalog.Справочник2" id="2f877f00-09f4-4fb2-9213-cb556461e361" configVersion="2a0946c3b0c55f4b86c660c3db5a69cd00000000">
 			<Metadata name="Catalog.Справочник2.Attribute.Реквизит1" id="afe0903a-86ef-49fe-90ac-5a6be8b31a3a"/>
 			<Metadata name="Catalog.Справочник2.Attribute.Реквизит2" id="c4684571-739e-421d-ad46-afa1369f8a2c"/>
